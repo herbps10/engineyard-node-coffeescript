@@ -6,6 +6,6 @@
     "express": "2.5.0"
   },
   "scripts": {
-    "start": "coffee app.coffee"
+    "start": "coffee --nodejs --harmony app.coffee"
   }
 }
